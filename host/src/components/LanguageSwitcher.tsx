@@ -6,7 +6,7 @@ export const LanguageSwitcher = () => {
   const handleLanguageSwitch = (lng: string) => switchAllLanguages(lng);
 
   return (
-    <LanguageSwitcher_Container>
+    <LanguageSwitcher_Container data-testid='language-switcher'>
       <LanguageSwitcher_Button onClick={() => handleLanguageSwitch('en')}>
         English
       </LanguageSwitcher_Button>

@@ -25,10 +25,10 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**
 
-```bash
-git clone https://github.com/sebasdominguez/microfrontends-react.git
-cd your-repo-name
-```
+   ```bash
+   git clone https://github.com/sebasdominguez/microfrontends-react.git
+   cd your-repo-name
+   ```
 
 2. **Install Dependencies**
    Navigate to each project directory and install the required dependencies.
